@@ -1,0 +1,1 @@
+import './App';//llama/importa lo que hay en el archivo app.js
